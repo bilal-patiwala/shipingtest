@@ -1,0 +1,1 @@
+web: gunicorn shipingtest.wsgi --log-file -
